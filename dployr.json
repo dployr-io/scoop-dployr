@@ -1,0 +1,20 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/dployr-io/dployr/releases/download/v0.1.0/dployr-Windows-x86_64.zip",
+            "bin": [
+                "dployr.exe",
+                "dployrd.exe"
+            ],
+            "hash": "0d100183f204304eafd03589cc56a1935b400ce2b7c07e4182d73e3a602a2c97"
+        }
+    },
+    "homepage": "https://github.com/dployr-io/scoop-dployr",
+    "license": "MIT",
+    "description": "Your app, your server, your rules!",
+    "depends": [
+        "caddy",
+        "nssm"
+    ]
+}
