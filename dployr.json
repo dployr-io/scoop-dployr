@@ -1,13 +1,13 @@
 {
-    "version": "0.1.1-beta.30",
+    "version": "0.1.1-beta.31",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dployr-io/dployr/releases/download/v0.1.1-beta.30/dployr-Windows-x86_64.tar.gz",
+            "url": "https://github.com/dployr-io/dployr/releases/download/v0.1.1-beta.31/dployr-Windows-x86_64.tar.gz",
             "bin": [
                 "dployr-Windows-x86_64/dployr.exe",
                 "dployr-Windows-x86_64/dployrd.exe"
             ],
-            "hash": "35363d76a6a20caba62b2af8f15b4e2a60cde7f4c209834c437238ab81c5e988"
+            "hash": "d89ee466c0b5381c9c28c224a24923d83069b241a8d31d7826630c76bde12e82"
         }
     },
     "homepage": "https://github.com/dployr-io/scoop-dployr",
