@@ -1,17 +1,17 @@
 {
-    "version": "0.4.6-beta.8",
+    "version": "0.4.6",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dployr-io/dployr/releases/download/v0.4.6-beta.8/dployr-Windows-x86_64.tar.gz",
+            "url": "https://github.com/dployr-io/dployr/releases/download/v0.4.6/dployr-Windows-x86_64.tar.gz",
             "bin": [
                 "dployr-Windows-x86_64/dployr.exe",
                 "dployr-Windows-x86_64/dployrd.exe"
             ],
-            "hash": "a135dedfd21fe53c14160dea0b72139d54e7e7ed3205319e57fb9a8d5218367c"
+            "hash": "f810a9b402d26e8d924698352ef5f6a7e0bb4242bd81bd3cf85ae4aa612376f0"
         }
     },
     "homepage": "https://github.com/dployr-io/scoop-dployr",
-    "license": "MIT",
+    "license": "Apache License, Version 2.0",
     "description": "Your app, your server, your rules!",
     "depends": [
         "caddy",
