@@ -1,20 +1,16 @@
 {
-    "version": "0.6.48",
+    "version": "0.6.49",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/dployr-io/dployr/releases/download/v0.6.48/dployr-Windows-x86_64.tar.gz",
+            "url": "https://github.com/dployr-io/dployr/releases/download/v0.6.49/dployr-Windows-x86_64.tar.gz",
             "bin": [
                 "dployr-Windows-x86_64/dployr.exe",
                 "dployr-Windows-x86_64/dployrd.exe"
             ],
-            "hash": "7c6dadc0fe98bf7817f73aef12a57cd3bf8b3e8027d26f299f0e8c1aebec3868"
+            "hash": "0beb8fd45a53bae9b4f0f73445b102bd7b2d1cdd78c808bfeef3d73ddc4bed64"
         }
     },
     "homepage": "https://github.com/dployr-io/scoop-dployr",
     "license": "Apache License, Version 2.0",
-    "description": "Your app, your server, your rules!",
-    "depends": [
-        "caddy",
-        "nssm"
-    ]
+    "description": "Ship apps, not infrastructure!"
 }
